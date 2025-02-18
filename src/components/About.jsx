@@ -21,7 +21,7 @@ function About() {
             Personal Information
           </h2>
           <p className="text-gray-700">
-            Hello everyone, my name is Lt.Satheesha K.M and I am the Head of the Electronics and Communication Engineering Department here at Karnataka Govt. Polytechnic. I was born on 21-03-1988 in Belgaum,Karnataka and Completed Working as Associative NCC Officer (ANO)
+            Hello everyone, my name is Lt.Satheesha K.M and I am the Head of the Electronics and Communication Engineering Department here at Karnataka Govt. Polytechnic. I was born on 21-03-1988 in Karnataka and Completed Working as Associative NCC Officer (ANO)
             from 14-11-2024.
           </p>
           
